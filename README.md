@@ -3,7 +3,7 @@
 <!-- logo -->
 # My Log Server 프로젝트
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.02.10~2024.3.22-green?style=flat&logo=&logoColor=white" />]()
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.03.10~2022.7.22-green?style=flat&logo=&logoColor=white" />]()
 </div> 
 
 ## 📜 프로젝트 개요
