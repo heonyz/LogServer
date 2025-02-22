@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- logo -->
-# My Log Server 프로젝트
+# Log Server 프로젝트
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.02.10~2024.3.22-green?style=flat&logo=&logoColor=white" />]()
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2023.03.17~2023.7.15-green?style=flat&logo=&logoColor=white" />]()
 </div> 
 
 ## 📜 프로젝트 개요
-my-log-server는 애플리케이션의 로그를 효과적으로 수집, 관리, 분석하는 경량 로깅 프레임워크입니다.
+logserver는 애플리케이션의 로그를 효과적으로 수집, 관리, 분석하는 로그 서버입니다.
 Spring Boot 기반으로 REST API를 제공하여, 다양한 애플리케이션에서 발생하는 로그를 중앙 집중적으로 수집할 수 있도록 설계되었습니다.
 
 <br />
